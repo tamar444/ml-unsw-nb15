@@ -6,11 +6,13 @@ This project performs multiclass classification of network traffic into normal t
 
 - Data cleaning and basic EDA  
 - Comparison of attack categories using boxplots across selected features  
-- Feature engineering with additional ratio-based features  
+- Feature engineering with additional ratio-based features
+
 **Dimensionality reduction techniques:**
 - Feature selection + feature engineering  
 - PCA  
 - Autoencoders
+
 **Models compared:**
 - MLP 
 - XGBoost
